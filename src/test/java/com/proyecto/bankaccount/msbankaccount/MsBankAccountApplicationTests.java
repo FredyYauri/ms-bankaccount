@@ -1,10 +1,10 @@
-package com.proyecto.account.msaccount;
+package com.proyecto.bankaccount.msbankaccount;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsAccountApplicationTests {
+class MsBankAccountApplicationTests {
 
 	@Test
 	void contextLoads() {

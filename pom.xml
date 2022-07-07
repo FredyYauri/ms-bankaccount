@@ -8,10 +8,10 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.proyecto.account</groupId>
-    <artifactId>ms-account</artifactId>
+    <groupId>com.proyecto.bankaccount</groupId>
+    <artifactId>ms-bankaccount</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ms-account</name>
+    <name>ms-bankaccount</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
